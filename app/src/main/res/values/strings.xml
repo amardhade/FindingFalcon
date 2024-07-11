@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FindingFalcon</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="finding_falcone_title">Finding Falcone</string>
+    <string name="select_planet">Select Planet</string>
+    <string name="select_vehicles">Select Vehicles</string>
+    <string name="no_network">Unable to proceed, please check your network connection and try again.</string>
+    <string name="somehing_went_wrong">Something went wrong, try again!</string>
+    <string name="planet_not_found">Planet not found.</string>
+    <string name="planet_found">Planet found</string>
+    <string name="time_taken">Time taken</string>
+</resources>
